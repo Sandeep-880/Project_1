@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(45deg, silver, grey, black);
+}
+
+h2{
+    color: thistle;
+}
+
+p{
+    color: azure;
+    font-size: larger;
+}
